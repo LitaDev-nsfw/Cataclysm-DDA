@@ -722,6 +722,22 @@
     "components": [ [ [ "potato", 10 ] ] ]
   },
   {
+    "result": "seed_horseradish_raw",
+    "type": "recipe",
+    "copy-from": "seed_extraction_base",
+    "components": [ [ [ "horseradish_root", 1 ] ] ]
+  },
+  {
+    "result": "seed_horseradish_raw",
+    "type": "recipe",
+    "id_suffix": "bulk",
+    "name": "bulk %s",
+    "time": "5 m",
+    "result_mult": 10,
+    "copy-from": "seed_extraction_base",
+    "components": [ [ [ "horseradish_root", 10 ] ] ]
+  },
+  {
     "result": "seed_sunflower",
     "type": "recipe",
     "copy-from": "seed_extraction_base",
