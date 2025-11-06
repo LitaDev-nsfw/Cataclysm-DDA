@@ -258,7 +258,7 @@
   {
     "type": "ITEM",
     "subtypes": [ "COMESTIBLE" ],
-    "id": "cattail_rhizome",
+    "id": "cattail_rhizome_EX",
     "name": { "str": "cattail rhizome" },
     "weight": "209 g",
     "color": "brown",
